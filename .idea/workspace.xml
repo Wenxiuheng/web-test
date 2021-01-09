@@ -7,7 +7,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffc45dfa-2842-480f-bc5b-79ca3453ecf1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wdznmy/goods/controller/SystemController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/classes/com/wdznmy/goods/controller/SystemController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/jackson-annotations-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/jackson-core-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/jackson-databind-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/jackson-datatype-jdk8-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/jackson-datatype-jsr310-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/jackson-module-parameter-names-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/jakarta.annotation-api-1.3.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/jakarta.el-3.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/snakeyaml-1.26.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/spring-aop-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/spring-beans-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/spring-boot-2.3.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/spring-boot-autoconfigure-2.3.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/spring-boot-starter-2.3.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/spring-boot-starter-json-2.3.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/spring-boot-starter-tomcat-2.3.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/spring-boot-starter-web-2.3.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/spring-context-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/spring-core-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/spring-expression-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/spring-jcl-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/spring-web-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/spring-webmvc-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/tomcat-embed-core-9.0.38.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/lib/tomcat-embed-websocket-9.0.38.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xst/index.jsp" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,7 +92,7 @@
           <entry key="java" value="40" />
           <entry key="jsp" value="12" />
           <entry key="properties" value="3" />
-          <entry key="txt" value="11" />
+          <entry key="txt" value="24" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
@@ -63,7 +100,7 @@
         <counts>
           <entry key="JAVA" value="40" />
           <entry key="JSP" value="12" />
-          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="PLAIN_TEXT" value="30" />
           <entry key="Properties" value="3" />
           <entry key="XML" value="6" />
         </counts>
@@ -135,7 +172,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
+            <state relative-caret-position="301">
               <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
             </state>
           </provider>
@@ -253,7 +290,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610182764727" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610182940367" />
     <property name="last_opened_file_path" value="E:/Git/cmd/git.exe" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
@@ -505,7 +542,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610139527863</updated>
-      <workItem from="1610139533755" duration="4291000" />
+      <workItem from="1610139533755" duration="4589000" />
     </task>
     <task id="LOCAL-00001" summary="流水线构建所需文件">
       <created>1610182451978</created>
@@ -514,11 +551,18 @@
       <option name="project" value="LOCAL" />
       <updated>1610182451978</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="清除提交的忽略文件">
+      <created>1610182801975</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610182801975</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4291000" />
+    <option name="totallyTimeSpent" value="4589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="746" extended-state="6" />
@@ -535,7 +579,7 @@
       <window_info anchor="bottom" id="Application Servers" weight="0.32994923" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.5668359" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.43654823" />
       <window_info anchor="bottom" id="Problems" />
       <window_info anchor="bottom" id="Java Enterprise" weight="0.32994923" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -570,7 +614,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="流水线构建所需文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="流水线构建所需文件" />
+    <MESSAGE value="清除提交的忽略文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="清除提交的忽略文件" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
@@ -621,7 +666,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
+        <state relative-caret-position="301">
           <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
         </state>
       </provider>
